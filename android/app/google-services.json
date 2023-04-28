@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28773098582",
+    "project_id": "mizon-348900",
+    "storage_bucket": "mizon-348900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28773098582:android:902fe4e461411e6506c7f7",
+        "android_client_info": {
+          "package_name": "com.example.mizon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28773098582-qvo3vrdqeqi9bfuig827gsd2hr160i3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhtrXB910PJp8Km4H3Tz9SXDbwnGLVG9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28773098582-qvo3vrdqeqi9bfuig827gsd2hr160i3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
